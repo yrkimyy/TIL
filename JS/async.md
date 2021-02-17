@@ -18,3 +18,4 @@ More recently, Node.js introduced a non-blocking I/O environment to extend this 
 최근 들어서는 노드가 논블로킹 인풋, 아웃풋 환경을 소개 했다. 
 
 
+콜백 => 함수의 인자로 전달되는 함수 라고 함. 

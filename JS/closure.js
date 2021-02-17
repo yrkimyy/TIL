@@ -1,4 +1,4 @@
-//closure는 외부함수의 변수에 접근하는 내부함수 혹은 그 메커니즘을 일컫는 용어
+// ! closure는 외부함수의 변수에 접근하는 내부함수 혹은 그 메커니즘을 일컫는 용어
 
 function outer() {
   let content = "this is what closure means! WOW"
